@@ -51,7 +51,7 @@ email: "leyuan.wang@cripac.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Staff
 #- Grad Students
 ---
 Leyuan Wang is currently pursuing the Master degree with Center for Research on Intelligent Perception and Computing (CRIPAC),National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree from Department of Forensic Audio and Video Technology, Criminal Investigation Police University of China in 2018. His research focuses on pattern recognition, Computational Photography, Biometrics and Criminal Law.
